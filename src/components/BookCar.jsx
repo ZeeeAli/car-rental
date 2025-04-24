@@ -300,7 +300,6 @@ function BookCar() {
                         </div>
                      </span>
                   </div>
-
                   <div className="booking-modal__car-info__dates">
                      <span>
                         <i className="fa-solid fa-location-dot"></i>
